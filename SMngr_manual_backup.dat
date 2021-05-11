@@ -1,0 +1,5 @@
+('2021-04-01',)
+-1104
+{'rblx': {'quantity': 2, 'bought_total': 604}, 'sad': {'quantity': 1, 'bought_total': 500}}
+{'sad': {'bought_quantity': 1, 'bought_total': 500, 'highest_buy': 500, 'lowest_buy': 500, 'sold_quantity': 0, 'sold_total': 0, 'highest_sell': None, 'lowest_sell': None, 'fee': 0, 'dividend': 0, 'date': '2021-04-02'}, 'rblx': {'bought_quantity': 2, 'bought_total': 604, 'highest_buy': 554, 'lowest_buy': 50, 'sold_quantity': 0, 'sold_total': 0, 'highest_sell': None, 'lowest_sell': None, 'fee': 0, 'dividend': 0, 'date': '2021-05-01'}}
+[]
